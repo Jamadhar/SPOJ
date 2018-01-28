@@ -18,7 +18,7 @@ using namespace std;
 int main()
 {
     vector<long long> v;
-    for (int i = 0; i <= 55; i++) {
+    for (int i = 0; i <= 57; i++) {
         v.push_back(pow(2, i + 1) - 1);
     }
 
