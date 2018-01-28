@@ -1,5 +1,17 @@
 #include <iostream>
+#include <string>
 #include <vector>
+#include <set>
+#include <map>
+#include <deque>
+#include <cstdio>
+#include <cstdlib>
+#include <algorithm>
+#include <stack>
+#include <queue>
+#include <cmath>
+#include <fstream>
+#include <functional>
 
 using namespace std;
 
